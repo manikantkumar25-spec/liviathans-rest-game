@@ -9,6 +9,8 @@
 
 ---
 
+if you want to play it directly [leviathans-rest.html](https://github.com/user-attachments/files/29687956/leviathans-rest.html)
+
 ## 📖 Overview
 
 **Leviathan's Rest** is a browser-based 3D exploration game where players descend into the remains of an ancient sea titan. Inside its enormous skeleton lies a forgotten civilization of glowing coral cities, abandoned laboratories, mysterious ruins, and unique marine ecosystems waiting to be explored.
@@ -18,7 +20,7 @@ Your mission is to recover lost relics, scan marine life, collect hidden pearls,
 The game focuses on exploration, atmosphere, and environmental storytelling rather than combat.
 
 
-if you want to play it directly [leviathans-rest.html](https://github.com/user-attachments/files/29687956/leviathans-rest.html)
+
 
 
 
