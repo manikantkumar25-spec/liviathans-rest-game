@@ -16,7 +16,10 @@
 Your mission is to recover lost relics, scan marine life, collect hidden pearls, manage your oxygen supply, and uncover the mystery behind the legendary Leviathan.
 
 The game focuses on exploration, atmosphere, and environmental storytelling rather than combat.
+
+
 if you want to play it directly [leviathans-rest.html](https://github.com/user-attachments/files/29687956/leviathans-rest.html)
+
 
 
 ---
